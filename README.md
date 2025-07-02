@@ -3,8 +3,8 @@
 
 ## Student data
 
-Name: 'YOUR NAME HERE'
-Email: 'YOUR EMAIL HERE'
+Name:  Andrew Belles 
+Email: andrew.j.belles.27@dartmouth.edu
 
 Carefully follow the instructions below to setup your assignment repository.
 
